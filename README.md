@@ -1,4 +1,4 @@
-# Dmitry Repin
+# Dima Repin
 
 Frontend Developer focused on React, TypeScript, scalable web applications, and maintainable frontend architecture.
 
