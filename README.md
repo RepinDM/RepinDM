@@ -116,7 +116,7 @@ A TypeScript single-page storefront built around MVP architecture.
 
 The application includes a product catalogue, product previews, shopping cart, multi-step checkout, API integration, validation, modal interfaces, and fallback data handling.
 
-The project helped me deepen my understanding of application architecture, separation of responsibilities, OOP, event-driven communication, TypeScript types, and data flow between application layers.
+I implemented the application around a class-based MVP architecture with clear separation between models, views, presenters, and event-driven communication through EventEmitter.
 
 **Tech:** TypeScript, Vite, SCSS, MVP, OOP, EventEmitter, REST API, Fetch API
 
