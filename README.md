@@ -1,6 +1,6 @@
 # Dmitry Repin
 
-Frontend Developer focused on React, TypeScript, modern web applications, and maintainable frontend architecture.
+Frontend Developer focused on React, TypeScript, scalable web applications, and maintainable frontend architecture.
 
 I build responsive user interfaces, work with application state, REST APIs, real-time data, testing, and reusable component systems.
 
@@ -8,7 +8,7 @@ I build responsive user interfaces, work with application state, REST APIs, real
 
 ## About Me
 
-I am a Frontend Developer with hands-on experience building educational, team, and portfolio projects with React and TypeScript.
+I am a Frontend Developer with hands-on experience building team and portfolio projects with React and TypeScript.
 
 I have worked on reusable UI components, application state management, authentication, REST API integration, WebSocket-based real-time features, automated testing, and team development through Git and Pull Requests.
 
@@ -166,9 +166,9 @@ Software Engineering — ongoing
 
 ## Contact
 
-- GitHub: https://github.com/RepinDM
-- Telegram: https://t.me/Repin26
-- Email: dmrepin26@yandex.ru
+- [GitHub](https://github.com/RepinDM)
+- [Telegram](https://t.me/Repin26)
+- [Email](mailto:dmrepin26@yandex.ru)
 
 LinkedIn and Instagram are also available through the links in my GitHub profile.
 
