@@ -81,6 +81,9 @@ My work included reusable UI development, team integration through Git and Pull 
 
 **Tech:** React, TypeScript, Redux Toolkit, React Router, React Hook Form, Yup, SCSS Modules, Storybook, Vitest, Testing Library, Vite
 
+**Live Demo:**  
+https://repindm.github.io/SkillSwap-static-demo/
+
 **Repository:**  
 https://github.com/RepinDM/SkillSwap-static-demo
 
@@ -99,6 +102,9 @@ I implemented application state with Redux Toolkit, authentication and token ref
 
 **Tech:** React, TypeScript, Redux Toolkit, React Router, REST API, WebSocket, Jest, Cypress, Webpack, CSS Modules
 
+**Live Demo:**  
+https://stellar-burgers-beta.vercel.app/
+
 **Repository:**  
 https://github.com/RepinDM/stellar-burgers
 
@@ -113,6 +119,9 @@ The application includes a product catalogue, product previews, shopping cart, m
 The project helped me deepen my understanding of application architecture, separation of responsibilities, OOP, event-driven communication, TypeScript types, and data flow between application layers.
 
 **Tech:** TypeScript, Vite, SCSS, MVP, OOP, EventEmitter, REST API, Fetch API
+
+**Live Demo:**  
+https://weblarek-zeta.vercel.app/
 
 **Repository:**  
 https://github.com/RepinDM/weblarek
